@@ -1,0 +1,5 @@
+{
+    "journal": "dsa5-aventuria-map.aventuriajournals",
+	"scenes": "dsa5-aventuria-map.aventuriamaps",
+    "initialScene": "Aventurien"
+}

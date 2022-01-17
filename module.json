@@ -1,0 +1,58 @@
+{
+  "name": "dsa5-aventuria-map",
+  "title": "The Dark Eye 5th Ed. - Aventuria Map",
+  "description": "Aventuria Map",
+  "author": "Himmelweiss",
+  "authors": [],
+  "url": "",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "9.242",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [
+    "modules/init.js"
+  ],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "aventuriajournals",
+      "label": "Aventurien",
+      "system": "dsa5",
+      "path": "./packs/aventuriajournals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
+      "private": false
+    },
+    {
+      "name": "aventuriamaps",
+      "label": "Aventurien",
+      "system": "dsa5",
+      "path": "./packs/aventuriamaps.db",
+      "entity": "Scene",
+      "type": "Scene",
+      "private": false
+    }
+  ],
+  "system": [
+    "dsa5"
+  ],
+  "dependencies": [
+    {
+      "name": "dsa5",
+      "type": "system"
+    }
+  ],
+  "socket": false,
+  "manifest": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}

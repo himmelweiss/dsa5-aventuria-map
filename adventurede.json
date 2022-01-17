@@ -1,0 +1,16 @@
+{
+    "moduleName": "dsa5-aventuria-map",
+    "journal": "dsa5-aventuria-map.aventuriajournals",
+	"scenes": "dsa5-aventuria-map.aventuriamaps",
+    "chapters": [{
+        "name": "Readme",
+		"content": [
+			{ "id": "prep", "name": "Vorbereitung" },
+			{ "id": "foundryUsage", "name": "DSA & Foundry" }
+		]
+    }],
+    "modules": [
+        { "id": "fxmaster", "name": "FXMaster", "description": "Benutze die vorkonfigurierten Wettereffekte auf der Aventurien Karte (Wolken/Vögel usw.)" }
+    ],
+    "splash": "modules/dsa5-aventuria-map/icons/journal/cover.webp"
+}
