@@ -1,14 +1,157 @@
 {
     "moduleName": "dsa5-aventuria-map",
     "journal": "dsa5-aventuria-map.aventuriajournals",
-	"scenes": "dsa5-aventuria-map.aventuriamaps",
+    "scenes": "dsa5-aventuria-map.aventuriamaps",
     "chapters": [{
-        "name": "Readme",
-		"content": [
-			{ "id": "prep", "name": "Vorbereitung" },
-			{ "id": "foundryUsage", "name": "DSA & Foundry" }
-		]
-    }],
+            "name": "Readme",
+            "content": [
+                { "id": "prep", "name": "Vorbereitung" }
+            ]
+        },
+        {
+            "name": "Aventurien",
+            "content": [
+                { "id": "Aventurien", "name": "Aventurien" },
+                { "id": "Kirchen & Kulte", "name": "Kirchen & Kulte" },
+                { "id": "Kulturen", "name": "Kulturen" },
+                { "id": "Spezies", "name": "Spezies" },
+                { "id": "Zwölfgötter, Götter & Halbgötter", "name": "Zwölfgötter, Götter & Halbgötter" },
+                { "id": "Meeresteile", "name": "Meeresteile" }
+            ]
+        },
+        {
+            "name": "Altoum & Die Waldinseln",
+            "content": [
+                { "id": "Altoum & Die Waldinseln", "name": "Altoum & Die Waldinseln" }
+            ]
+        },
+        {
+            "name": "Aranien",
+            "content": [
+                { "id": "Aranien", "name": "Aranien" }
+            ]
+        },
+        {
+            "name": "Das Horasreich",
+            "content": [
+                { "id": "Das Horasreich", "name": "Das Horasreich" },
+                { "id": "Horasreich", "name": "Horasreich" },
+                { "id": "Zyklopeninseln", "name": "Zyklopeninseln" }
+            ]
+        },
+        {
+            "name": "Der Hohe Norden",
+            "content": [
+                { "id": "Der Hohe Norden", "name": "Der Hohe Norden" },
+                { "id": "Herzogtum Paavi", "name": "Herzogtum Paavi" },
+                { "id": "Nivesenlande", "name": "Nivesenlande" }
+            ]
+        },
+        {
+            "name": "Die dampfenden Dschungel",
+            "content": [
+                { "id": "Die dampfenden Dschungel", "name": "Die dampfenden Dschungel" }
+            ]
+        },
+        {
+            "name": "Die Echsensümpfe",
+            "content": [
+                { "id": "Die Echsensümpfe", "name": "Die Echsensümpfe" }
+            ]
+        },
+        {
+            "name": "Die Insel Maraskan",
+            "content": [
+                { "id": "Die Insel Maraskan", "name": "Die Insel Maraskan" },
+                { "id": "Bannland", "name": "Bannland" },
+                { "id": "Fürstkomturei", "name": "Fürstkomturei" },
+                { "id": "Shikanydad", "name": "Shikanydad" }
+            ]
+        },
+        {
+            "name": "Die Lande der Tulamiden",
+            "content": [
+                { "id": "Die Lande der Tulamiden", "name": "Die Lande der Tulamiden" },
+                { "id": "Sultanat Gorien", "name": "Sultanat Gorien" },
+                { "id": "Tulamidenlande", "name": "Tulamidenlande" }
+            ]
+        },
+        {
+            "name": "Die Stadtstaaten Meridianas",
+            "content": [
+                { "id": "Chorhop", "name": "Chorhop" },
+                { "id": "Großemirat Mengbilla", "name": "Großemirat Mengbilla" },
+                { "id": "Imperium von Al'Anfa", "name": "Imperium von Al'Anfa" },
+                { "id": "Königreich Brabak", "name": "Königreich Brabak" }
+            ]
+        },
+        {
+            "name": "Die Steppen der Orks & der ehemalige svelltsche Städtebund",
+            "content": [
+                { "id": "Golf von Riva", "name": "Golf von Riva" },
+                { "id": "Orkland", "name": "Orkland" },
+                { "id": "Svelltland", "name": "Svelltland" }
+            ]
+        },
+        {
+            "name": "Die Streitenden Königreiche",
+            "content": [
+                { "id": "Die Streitenden Königreiche", "name": "Die Streitenden Königreiche" },
+                { "id": "Andergast", "name": "Andergast" },
+                { "id": "Nostria", "name": "Nostria" }
+            ]
+        },
+        {
+            "name": "Die Wüste Khôm & Kalifat",
+            "content": [
+                { "id": "Die Wüste Khôm & Kalifat", "name": "Die Wüste Khôm & Kalifat" }
+            ]
+        },
+        {
+            "name": "Mittelreich",
+            "content": [
+                { "id": "Mittelreich", "name": "Mittelreich" },
+                { "id": "Bergkönigreiche der Zwerge", "name": "Bergkönigreiche der Zwerge" },
+                { "id": "Fürstentum Albernia", "name": "Fürstentum Albernia" },
+                { "id": "Fürstentum Almada", "name": "Fürstentum Almada" },
+                { "id": "Fürstentum Kosch", "name": "Fürstentum Kosch" },
+                { "id": "Herzogtum Nordmarken", "name": "Herzogtum Nordmarken" },
+                { "id": "Herzogtum Tobrien", "name": "Herzogtum Tobrien" },
+                { "id": "Herzogtum Weiden", "name": "Herzogtum Weiden" },
+                { "id": "Königreich Garetien", "name": "Königreich Garetien" },
+                { "id": "Markgrafschaft Greifenfurt", "name": "Markgrafschaft Greifenfurt" },
+                { "id": "Markgrafschaft Perricum", "name": "Markgrafschaft Perricum" },
+                { "id": "Markgrafschaft Rabenmark", "name": "Markgrafschaft Rabenmark" },
+                { "id": "Markgrafschaft Rommilyser Mark", "name": "Markgrafschaft Rommilyser Mark" },
+                { "id": "Markgrafschaft Sonnenmark", "name": "Markgrafschaft Sonnenmark" },
+                { "id": "Markgrafschaft Warunk", "name": "Markgrafschaft Warunk" },
+                { "id": "Markgrafschaft Windhag", "name": "Markgrafschaft Windhag" }
+            ]
+        },
+        {
+            "name": "Schattenlande",
+            "content": [
+                { "id": "Schattenlande", "name": "Schattenlande" }
+            ]
+        },
+        {
+            "name": "Thorwal & Gjalskerland",
+            "content": [
+                { "id": "Gjalskerland", "name": "Gjalskerland" },
+                { "id": "Thorwal", "name": "Thorwal" }
+            ]
+        },
+        {
+            "name": "Wälder des Nordens",
+            "content": [
+                { "id": "Wälder des Nordens", "name": "Wälder des Nordens" },
+                { "id": "Bornland", "name": "Bornland" },
+                { "id": "Dominium Donnerbach", "name": "Dominium Donnerbach" },
+                { "id": "Freie Städte des Nordens & Elfenlande", "name": "Freie Städte des Nordens & Elfenlande" },
+                { "id": "Nivesenlande", "name": "Nivesenlande" }
+            ]
+        }
+    ],
     "modules": [
         { "id": "fxmaster", "name": "FXMaster", "description": "Benutze die vorkonfigurierten Wettereffekte auf der Aventurien Karte (Wolken/Vögel usw.)" }
     ],

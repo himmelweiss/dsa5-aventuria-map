@@ -18,10 +18,10 @@ Hooks.once("ready", function() {
         ChatMessage.create(game.dsa5.apps.DSA5_Utility.chatDataSetup(msg))
         game.settings.set("dsa5-aventuria-map", "firstTimeStart", true)
     }
-	
-	game.dsa5.apps.journalBrowser.adventures.push({
-		id: "Aventurien Karte",
-		path: "modules/dsa5-aventuria-map/adventurede.json",
-		visible: true
-	})
+
+    game.dsa5.apps.journalBrowser.rshs.push({
+        id: "Aventurien Karte",
+        path: "modules/dsa5-aventuria-map/adventurede.json",
+        visible: true
+    })
 })
