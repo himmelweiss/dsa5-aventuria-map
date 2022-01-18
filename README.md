@@ -13,6 +13,10 @@ Kindly supported by [Ulisses Spiele](https://ulisses-spiele.de/).
 ## Module Language
 German
 
+## Dependencies
+[The Dark Eye 5th Edition System](https://github.com/Plushtoast/dsa5-foundryVTT/)  
+[The Dark Eye 5th Edition - Core Rules](https://www.f-shop.de/detail/index/sArticle/2157)
+
 ## Installation - Instructions
 Install via Foundry or by pasting the URL below into Foundry's module manager:  
 https://github.com/himmelweiss/dsa5-aventuria-map/module.json
