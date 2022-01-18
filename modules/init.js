@@ -1,5 +1,5 @@
 Hooks.on("init", async function() {
-    console.log("Initializing DSA5 aventuria map module")
+    console.log("Initializing DSA5 Interactive Aventuria Map module")
 
     game.settings.register("dsa5-aventuria-map", "firstTimeStart", {
         name: "firstTimeStart",
@@ -20,7 +20,7 @@ Hooks.once("ready", function() {
     }
 
     game.dsa5.apps.journalBrowser.rshs.push({
-        id: "Aventurien Karte",
+        id: "Interaktive Aventurienkarte",
         path: "modules/dsa5-aventuria-map/adventurede.json",
         visible: true
     })

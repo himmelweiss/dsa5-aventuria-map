@@ -1,10 +1,10 @@
 {
     "name": "dsa5-aventuria-map",
-    "title": "The Dark Eye 5th Ed. - Aventuria Map",
-    "description": "Aventuria Map",
+    "title": "The Dark Eye 5th Ed. - Interactive Aventuria Map",
+    "description": "Interactive Aventuria Map for The Dark Eye 5th Edition System.",
     "author": "Himmelweiss",
     "authors": [],
-    "url": "",
+    "url": "https://github.com/himmelweiss/dsa5-aventuria-map",
     "flags": {},
     "version": "1.0.0",
     "minimumCoreVersion": "9.242",
@@ -51,7 +51,7 @@
         }
     ],
     "socket": false,
-    "manifest": "",
+    "manifest": "https://github.com/himmelweiss/dsa5-aventuria-map/module.json",
     "protected": false,
     "coreTranslation": false,
     "library": false

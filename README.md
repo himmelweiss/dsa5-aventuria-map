@@ -2,13 +2,17 @@
 ![](https://user-images.githubusercontent.com/7482909/149914526-1a5f6a46-c035-4f7a-9ca9-abab352724ae.jpg)
 
 ### Current Version and Compatibility:
-1.0.0 - FoundryVTT 9.+
+1.0.0 - FoundryVTT 9.+  
 This module is intended for usage with [The Dark Eye 5th Edition System](https://github.com/Plushtoast/dsa5-foundryVTT/) for [Foundry Virtual Tabletop](https://foundryvtt.com/).
 
 ## Module Description
 An interactive Aventuria map for [The Dark Eye 5th Edition System](https://github.com/Plushtoast/dsa5-foundryVTT/).  
 Currently includes over 400+ map notes and over 100+ additional notes about Aventuria.  
 Kindly supported by [Ulisses Spiele](https://ulisses-spiele.de/).  
+  
+Eine interaktive Aventurienkarte für [Das Schwarze Auge 5 Edition System](https://github.com/Plushtoast/dsa5-foundryVTT/).  
+Beinhaltet aktuell über 400+ Notizen auf der Karte und über 100+ zusätzliche Notizen über ganz Aventurien.  
+Mit freundlicher Unterstützung von [Ulisses Spiele](https://ulisses-spiele.de/).
 
 ## Module Language
 German
