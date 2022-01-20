@@ -23,7 +23,7 @@ German
 
 ## Installation - Instructions
 Install via Foundry or by pasting the URL below into Foundry's module manager:  
-https://github.com/himmelweiss/dsa5-aventuria-map/module.json
+https://github.com/himmelweiss/dsa5-aventuria-map/releases/latest/download/module.json
 
 ## Other Recommended Modules
 - [FXMaster](https://github.com/ghost-fvtt/fxmaster) - For weather effects such as clouds, crows, birds etc.

@@ -1,0 +1,22 @@
+.fa-dsa5-map {
+    position: relative;
+    width: 100%;
+    height: 25px;
+}
+
+.fa-dsa5-map:before {
+    content: '';
+    background-image: url(../icons/menu/mapmenu.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: -5px;
+}
+
+.set-permissions-click {
+    width:200px;
+}

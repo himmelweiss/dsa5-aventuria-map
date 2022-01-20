@@ -1,0 +1,26 @@
+<section>
+    <h1>{{localize "mapMenuSetPermissionsTitle"}}</h1>
+
+    <h3>{{localize "mapMenuChooseFolder"}}</h3>
+    <select name="aventuriaMapFolders" class="aventuria-map-folders-change">
+        {{#select aventuriaMapFolders}}
+        {{#each aventuriaMapFolders as |folder type|}}
+        <option value="{{folder.id}}">{{folder.name}}</option>
+        {{/each}}
+        {{/select}}
+      </select>
+    <br/>
+    
+    <h3>{{localize "mapMenuChoosePermission"}}</h3>
+    <select name="desiredPermission" class="desired-permission-change" />
+      <option value="0">{{localize "PERMISSION.NONE"}}</option>
+      <option value="1">{{localize "PERMISSION.LIMITED"}}</option>
+      <option value="2">{{localize "PERMISSION.OBSERVER"}}</option>
+      <option value="3">{{localize "PERMISSION.OWNER"}}</option>
+    </select>
+    
+    <br/><br/>
+
+    <button class="set-permissions-click">{{localize "mapMenuSetPermissionButton"}}</button>
+
+</section>

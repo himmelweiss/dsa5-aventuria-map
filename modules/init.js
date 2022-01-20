@@ -1,3 +1,5 @@
+import MapMastersMenu from "./map_masters_menu.js";
+
 Hooks.on("init", async function() {
     console.log("Initializing DSA5 Interactive Aventuria Map module")
 
@@ -24,4 +26,11 @@ Hooks.once("ready", function() {
         path: "modules/dsa5-aventuria-map/adventurede.json",
         visible: true
     })
+
+
+    
+})
+
+Hooks.once('setup', () => {
+    MapMastersMenu.registerButtons();
 })
