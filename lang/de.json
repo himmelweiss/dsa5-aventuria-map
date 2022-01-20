@@ -3,15 +3,14 @@
         "name": "DSA5 Interaktive Aventurienkarte",
         "importHint": "Initialisiere das DSA5 Interaktive Aventurienkarte Modul. Importiert die Karte und alle Notizbucheinträge.",
         "importContent": "<h1>Import des DSA5 Interaktive Aventurienkarte Moduls</h1><p>Importiere die Karte und Notizbucheinträge für das DSA5 System.</p><p>Die Karte enthält bereits die vorgefertigten Notizbucheinträge für ganz Aventurien. Die Einträge kannst du über das Menü am linken Rand (<i class=\"fas fa-bookmark\"></i>) einblenden.</p>{defaultText}",
-        "welcome": "<h1>Interaktive Aventurienkarte</h1><p>Im Journal Directory findest du Zugang zu allen relevanten Informationen über den <button class=\"openJournalBrowser\">Journal Browser</button>Hier kannst du die Interaktive Aventurienkarte auch initialisieren.</p>"
-    },
-    "mapGMMenu": "Aventurienkarte Meister Menü",
-    "mapMenuSetPermissionsTitle": "Aventurienkarte Rechte anpassen",
-    "mapMenuChooseFolder": "Ordner wählen:",
-    "mapMenuChoosePermission": "Rechte aller Notizen im Ordner und dessen Unterordnern setzen für alle Spieler auf:",
-    "mapMenuSetPermissionButton": "Rechte setzen",
-    "mapMenuErrorNoFolderSelected": "Ein Ordner muss ausgewählt werden!",
-    "mapMenuInfoFinish": "Rechte wurden gesetzt für alle Notizbucheinträge im Ordner:",
-    "mapMenuInfoFinishEnd": "(und alle darin enthaltenen Unterordner)!"
-
+        "welcome": "<h1>Interaktive Aventurienkarte</h1><p>Im Journal Directory findest du Zugang zu allen relevanten Informationen über den <button class=\"openJournalBrowser\">Journal Browser</button>Hier kannst du die Interaktive Aventurienkarte auch initialisieren.</p>",
+        "mapGMMenu": "Aventurienkarte Meister Menü",
+        "mapMenuSetPermissionsTitle": "Aventurienkarte Rechte anpassen",
+        "mapMenuChooseFolder": "Ordner wählen:",
+        "mapMenuChoosePermission": "Rechte aller Notizen im Ordner und dessen Unterordnern setzen für alle Spieler auf:",
+        "mapMenuSetPermissionButton": "Rechte setzen",
+        "mapMenuErrorNoFolderSelected": "Ein Ordner muss ausgewählt werden!",
+        "mapMenuInfoFinish": "Rechte wurden gesetzt für alle Notizbucheinträge im Ordner:",
+        "mapMenuInfoFinishEnd": "(und alle darin enthaltenen Unterordner)!"
+    }
 }

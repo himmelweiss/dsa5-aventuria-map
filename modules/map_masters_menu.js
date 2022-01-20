@@ -12,7 +12,7 @@ export default class MapMastersMenu {
                 gmMenu.tools.push(
                     {
                         name: "MapMenu",
-                        title: game.i18n.localize("mapGMMenu"),
+                        title: game.i18n.localize("dsa5-aventuria-map.mapGMMenu"),
                         icon: "fas fa-dsa5-map",
                         button: true,
                         onClick: () => { game.dsa5.apps.DSA5_Utility.renderToggle(game.dsa5.apps.mapMenu) }

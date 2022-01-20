@@ -1,7 +1,7 @@
 <section>
-    <h1>{{localize "mapMenuSetPermissionsTitle"}}</h1>
+    <h1>{{localize "dsa5-aventuria-map.mapMenuSetPermissionsTitle"}}</h1>
 
-    <h3>{{localize "mapMenuChooseFolder"}}</h3>
+    <h3>{{localize "dsa5-aventuria-map.mapMenuChooseFolder"}}</h3>
     <select name="aventuriaMapFolders" class="aventuria-map-folders-change">
         {{#select aventuriaMapFolders}}
         {{#each aventuriaMapFolders as |folder type|}}
@@ -11,7 +11,7 @@
       </select>
     <br/>
     
-    <h3>{{localize "mapMenuChoosePermission"}}</h3>
+    <h3>{{localize "dsa5-aventuria-map.mapMenuChoosePermission"}}</h3>
     <select name="desiredPermission" class="desired-permission-change" />
       <option value="0">{{localize "PERMISSION.NONE"}}</option>
       <option value="1">{{localize "PERMISSION.LIMITED"}}</option>
@@ -21,6 +21,6 @@
     
     <br/><br/>
 
-    <button class="set-permissions-click">{{localize "mapMenuSetPermissionButton"}}</button>
+    <button class="set-permissions-click">{{localize "dsa5-aventuria-map.mapMenuSetPermissionButton"}}</button>
 
 </section>

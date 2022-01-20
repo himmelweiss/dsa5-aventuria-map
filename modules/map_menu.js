@@ -13,7 +13,7 @@ export default class MapMenu extends Application {
             width: 600,
             height: 480,
             template: 'modules/dsa5-aventuria-map/templates/map_menu.hbs',
-            title: game.i18n.localize("mapGMMenu"),
+            title: game.i18n.localize("dsa5-aventuria-map.mapGMMenu"),
             dragDrop: [{ dragSelector: null, dropSelector: null }],
             resizable: true
         });
@@ -60,7 +60,7 @@ export default class MapMenu extends Application {
 
             if (this.selectedFolder == null) {
                 ui.notifications.error(
-                    game.i18n.localize("mapMenuErrorNoFolderSelected")
+                    game.i18n.localize("dsa5-aventuria-map.mapMenuErrorNoFolderSelected")
                 );
                 return;
             }
@@ -79,7 +79,7 @@ export default class MapMenu extends Application {
             this.lock = false;
             
             ui.notifications.info(
-                game.i18n.localize("mapMenuInfoFinish") + "<br>" + this.selectedFolder.name + " " + game.i18n.localize("mapMenuInfoFinishEnd")
+                game.i18n.localize("dsa5-aventuria-map.mapMenuInfoFinish") + "<br>" + this.selectedFolder.name + " " + game.i18n.localize("dsa5-aventuria-map.mapMenuInfoFinishEnd")
             );
         });
     }
