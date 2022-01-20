@@ -28,7 +28,12 @@
         {
             "name": "Aranien",
             "content": [
-                { "id": "Aranien", "name": "Aranien" }
+                { "id": "Aranien", "name": "Aranien" },
+                { "id": "Radjarat Baburien", "name": "Radjarat Baburien" },
+                { "id": "Radjarat Elburien", "name": "Radjarat Elburien" },
+                { "id": "Radjarat Gorien", "name": "Radjarat Gorien" },
+                { "id": "Radjarat Palmyramis", "name": "Radjarat Palmyramis" },
+                { "id": "Radjarat Zorghana", "name": "Radjarat Zorghana" }
             ]
         },
         {
