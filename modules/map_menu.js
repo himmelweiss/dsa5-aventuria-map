@@ -11,7 +11,7 @@ export default class MapMenu extends Application {
 
         mergeObject(options, {
             width: 600,
-            height: 480,
+            height: 540,
             template: 'modules/dsa5-aventuria-map/templates/map_menu.hbs',
             title: game.i18n.localize("dsa5-aventuria-map.mapGMMenu"),
             dragDrop: [{ dragSelector: null, dropSelector: null }],
@@ -85,23 +85,24 @@ export default class MapMenu extends Application {
     }
 
     
-    SetPermissions(currentFolder, desiredPermission)
+    SetPermissions(currentFolder, desiredPermission, journalUpdates)
     {
         if (currentFolder.content) {
                 
             console.info(`Setting journal permissions in folder: ${currentFolder.name}`);
 
-            currentFolder.content.forEach(doc => {
+            for (const doc of currentFolder.content) {
                 const newPerms = duplicate(doc.data.permission);
                 newPerms.default = Number(desiredPermission);
-                doc.update({ permission: newPerms });   
-            });
+                journalUpdates.push({_id: doc.id, permission: newPerms});
+            }
+
         }
 
         const currentSubFolders = currentFolder.getSubfolders();
         if (currentSubFolders.length > 0) {
             currentSubFolders.forEach(folder => { 
-                this.SetPermissions(folder, desiredPermission);
+                this.SetPermissions(folder, desiredPermission, journalUpdates);
             });
         }
     }
@@ -109,8 +110,10 @@ export default class MapMenu extends Application {
     SetPermissionsProcess(currentFolder, desiredPermission) {
         
         return new Promise((resolve,reject)=>{
-
-            this.SetPermissions(currentFolder, desiredPermission);
+            let journalUpdates = [];
+            this.SetPermissions(currentFolder, desiredPermission, journalUpdates);
+            
+            JournalEntry.updateDocuments(journalUpdates);
                    
             resolve();
         })
