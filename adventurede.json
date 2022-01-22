@@ -22,18 +22,34 @@
         {
             "name": "Altoum & Die Waldinseln",
             "content": [
-                { "id": "Altoum & Die Waldinseln", "name": "Altoum & Die Waldinseln" }
+                { "id": "Altoum & Die Waldinseln", "name": "Altoum & Die Waldinseln" },
+                { "id": "Pirateninseln", "name": "Pirateninseln" },
+                { "id": "Waldinseln", "name": "Waldinseln" }
             ]
         },
         {
             "name": "Aranien",
             "content": [
                 { "id": "Aranien", "name": "Aranien" },
+                { "id": "Emirat Floeszern", "name": "Emirat Floeszern" },
                 { "id": "Radjarat Baburien", "name": "Radjarat Baburien" },
                 { "id": "Radjarat Elburien", "name": "Radjarat Elburien" },
                 { "id": "Radjarat Gorien", "name": "Radjarat Gorien" },
                 { "id": "Radjarat Palmyramis", "name": "Radjarat Palmyramis" },
-                { "id": "Radjarat Zorghana", "name": "Radjarat Zorghana" }
+                { "id": "Radjarat Zorghana", "name": "Radjarat Zorghana" },
+                { "id": "Sultanat Jindir", "name": "Sultanat Jindir" }
+            ]
+        },
+        {
+            "name": "Bergkönigreiche der Zwerge",
+            "content": [
+                { "id": "Bergkönigreiche der Zwerge", "name": "Bergkönigreiche der Zwerge" },
+                { "id": "Bergkönigreich Angoramtosch", "name": "Bergkönigreich Angoramtosch" },
+                { "id": "Bergkönigreich Angralosch", "name": "Bergkönigreich Angralosch" },
+                { "id": "Bergkönigreich Isnatosch", "name": "Bergkönigreich Isnatosch" },
+                { "id": "Bergkönigreich Koschim", "name": "Bergkönigreich Koschim" },
+                { "id": "Bergkönigreich Tosch Mur", "name": "Bergkönigreich Tosch Mur" },
+                { "id": "Bergkönigreich Xorlosch", "name": "Bergkönigreich Xorlosch" }
             ]
         },
         {
@@ -116,7 +132,6 @@
             "name": "Mittelreich",
             "content": [
                 { "id": "Mittelreich", "name": "Mittelreich" },
-                { "id": "Bergkönigreiche der Zwerge", "name": "Bergkönigreiche der Zwerge" },
                 { "id": "Fürstentum Albernia", "name": "Fürstentum Albernia" },
                 { "id": "Fürstentum Almada", "name": "Fürstentum Almada" },
                 { "id": "Fürstentum Kosch", "name": "Fürstentum Kosch" },
@@ -142,8 +157,18 @@
         {
             "name": "Thorwal & Gjalskerland",
             "content": [
+                { "id": "Thorwal & Gjalskerland", "name": "Thorwal & Gjalskerland" },
                 { "id": "Gjalskerland", "name": "Gjalskerland" },
-                { "id": "Thorwal", "name": "Thorwal" }
+                { "id": "Jarltum Gjalskerstrand", "name": "Jarltum Gjalskerstrand" },
+                { "id": "Jarltum Graue Berge", "name": "Jarltum Graue Berge" },
+                { "id": "Jarltum Küstenland", "name": "Jarltum Küstenland" },
+                { "id": "Jarltum Neues Land", "name": "Jarltum Neues Land" },
+                { "id": "Jarltum Njurunstal", "name": "Jarltum Njurunstal" },
+                { "id": "Jarltum Nordhjaldor", "name": "Jarltum Nordhjaldor" },
+                { "id": "Jarltum Olport", "name": "Jarltum Olport" },
+                { "id": "Jarltum Olportsteine", "name": "Jarltum Olportsteine" },
+                { "id": "Jarltum Premer Halbinsel", "name": "Jarltum Premer Halbinsel" },
+                { "id": "Jarltum Steineichenwald", "name": "Jarltum Steineichenwald" }
             ]
         },
         {
@@ -152,8 +177,7 @@
                 { "id": "Wälder des Nordens", "name": "Wälder des Nordens" },
                 { "id": "Bornland", "name": "Bornland" },
                 { "id": "Dominium Donnerbach", "name": "Dominium Donnerbach" },
-                { "id": "Freie Städte des Nordens & Elfenlande", "name": "Freie Städte des Nordens & Elfenlande" },
-                { "id": "Nivesenlande", "name": "Nivesenlande" }
+                { "id": "Elfenlande", "name": "Elfenlande" }
             ]
         }
     ],

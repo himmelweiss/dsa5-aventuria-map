@@ -34,6 +34,7 @@ export default class MapMenu extends Application {
             || (f.parentFolder != null && f.parentFolder.parentFolder != null && f.parentFolder.parentFolder.name === game.i18n.localize("dsa5-aventuria-map.name") ) 
             || f.name === game.i18n.localize("dsa5-aventuria-map.name"))
         );
+        aventuriaMapFolders.sort();
         aventuriaMapFolders.unshift("");
 
         mergeObject(data, {
