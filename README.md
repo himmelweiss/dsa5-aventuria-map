@@ -1,5 +1,5 @@
 # The Dark Eye 5th Edition Interactive Aventuria Map Module
-![](https://user-images.githubusercontent.com/7482909/149914526-1a5f6a46-c035-4f7a-9ca9-abab352724ae.jpg)
+![](https://user-images.githubusercontent.com/7482909/150671556-6e327d89-3748-41cc-b2e5-de3de9bdde41.jpg)
 
 ### Current Version and Compatibility:
 1.0.0 - FoundryVTT 9.+  

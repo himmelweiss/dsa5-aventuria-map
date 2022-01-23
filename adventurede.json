@@ -36,6 +36,7 @@
                 { "id": "Radjarat Elburien", "name": "Radjarat Elburien" },
                 { "id": "Radjarat Gorien", "name": "Radjarat Gorien" },
                 { "id": "Radjarat Palmyramis", "name": "Radjarat Palmyramis" },
+                { "id": "Radjarat Yalaiad", "name": "Radjarat Yalaiad" },
                 { "id": "Radjarat Zorghana", "name": "Radjarat Zorghana" },
                 { "id": "Sultanat Jindir", "name": "Sultanat Jindir" }
             ]
@@ -56,8 +57,32 @@
             "name": "Das Horasreich",
             "content": [
                 { "id": "Das Horasreich", "name": "Das Horasreich" },
-                { "id": "Horasreich", "name": "Horasreich" },
-                { "id": "Zyklopeninseln", "name": "Zyklopeninseln" }
+                { "id": "Archontat Pailos", "name": "Archontat Pailos" },
+                { "id": "Erzherrschaft Arivor", "name": "Erzherrschaft Arivor" },
+                { "id": "Freigonfalonierat bei Sikram", "name": "Freigonfalonierat bei Sikram" },
+                { "id": "Fürstentum Drôl", "name": "Fürstentum Drôl" },
+                { "id": "Fürstentum Mantrash'Mor", "name": "Fürstentum Mantrash'Mor" },
+                { "id": "Fürstentum Vinsalt", "name": "Fürstentum Vinsalt" },
+                { "id": "Grafschaft Arenkis", "name": "Grafschaft Arenkis" },
+                { "id": "Grafschaft Baliiri", "name": "Grafschaft Baliiri" },
+                { "id": "Grafschaft Bethana", "name": "Grafschaft Bethana" },
+                { "id": "Grafschaft Bomed", "name": "Grafschaft Bomed" },
+                { "id": "Grafschaft Haderin", "name": "Grafschaft Haderin" },
+                { "id": "Grafschaft Illstan", "name": "Grafschaft Illstan" },
+                { "id": "Grafschaft Khômwacht", "name": "Grafschaft Khômwacht" },
+                { "id": "Grafschaft Morbal", "name": "Grafschaft Morbal" },
+                { "id": "Grafschaft Sikram", "name": "Grafschaft Sikram" },
+                { "id": "Grafschaft Thegûn", "name": "Grafschaft Thegûn" },
+                { "id": "Grafschaft Tolfana", "name": "Grafschaft Tolfana" },
+                { "id": "Grafschaft Wobran", "name": "Grafschaft Wobran" },
+                { "id": "Großfürstentum Kuslik", "name": "Großfürstentum Kuslik" },
+                { "id": "Herzogtum Grangorien", "name": "Herzogtum Grangorien" },
+                { "id": "Herzogtum Methumis", "name": "Herzogtum Methumis" },
+                { "id": "Markgrafschaft Chababien", "name": "Markgrafschaft Chababien" },
+                { "id": "Markgrafschaft Goldfelsen", "name": "Markgrafschaft Goldfelsen" },
+                { "id": "Republik Belhanka", "name": "Republik Belhanka" },
+                { "id": "Seekönigreich Cyclopäa", "name": "Seekönigreich Cyclopäa" },
+                { "id": "Syndikokratie Silas", "name": "Syndikokratie Silas" }
             ]
         },
         {
