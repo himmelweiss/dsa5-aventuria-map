@@ -11,6 +11,7 @@
         "mapMenuSetPermissionButton": "Rechte setzen",
         "mapMenuErrorNoFolderSelected": "Ein Ordner muss ausgewählt werden!",
         "mapMenuInfoFinish": "Rechte wurden gesetzt für alle Notizbucheinträge im Ordner:",
-        "mapMenuInfoFinishEnd": "(und alle darin enthaltenen Unterordner)!"
+        "mapMenuInfoFinishEnd": "(und alle darin enthaltenen Unterordner)!",
+        "mapMenuInfoMainFolderNotFound" : "Folgender Hauptordner in den Notizen konnte nicht gefunden werden: "
     }
 }

@@ -15,7 +15,19 @@ export default class MapMastersMenu {
                         title: game.i18n.localize("dsa5-aventuria-map.mapGMMenu"),
                         icon: "fas fa-dsa5-map",
                         button: true,
-                        onClick: () => { game.dsa5.apps.DSA5_Utility.renderToggle(game.dsa5.apps.mapMenu) }
+                        onClick: () => { 
+                            game.dsa5.apps.DSA5_Utility.renderToggle(game.dsa5.apps.mapMenu);
+
+                            let aventuriaMapMainFolder = game.folders.filter(
+                                f => f.type === "JournalEntry" && f.name === game.i18n.localize("dsa5-aventuria-map.name")
+                            );
+
+                            if (aventuriaMapMainFolder.length == 0) {
+                                ui.notifications.error(
+                                    game.i18n.localize("dsa5-aventuria-map.mapMenuInfoMainFolderNotFound") + " " + game.i18n.localize("dsa5-aventuria-map.name")
+                                );
+                            }
+                        }
                     }
                 )
             }

@@ -12,8 +12,7 @@ Hooks.on("init", async function() {
         type: Boolean
     })
 })
-
-
+ 
 Hooks.once("ready", function() {
     if (!game.settings.get("dsa5-aventuria-map", "firstTimeStart")) {
         let msg = game.i18n.localize('dsa5-aventuria-map.welcome')
@@ -26,9 +25,6 @@ Hooks.once("ready", function() {
         path: "modules/dsa5-aventuria-map/adventurede.json",
         visible: true
     })
-
-
-    
 })
 
 Hooks.once('setup', () => {

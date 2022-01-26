@@ -26,7 +26,7 @@ export default class MapMenu extends Application {
         const data = await super.getData(options);
 
         if (!game.user.isGM)
-            return;
+            return data;
        
         let aventuriaMapFolders = game.folders.filter(
             f => f.type === "JournalEntry" 
