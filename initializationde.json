@@ -863,30 +863,6 @@
             }
         },
         {
-            "name": "Kirchen & Kulte",
-            "type": "JournalEntry",
-            "sorting": "a",
-            "sort": 850000,
-            "color": null,
-            "flags": {
-                "dsa5": {
-                    "parent": "Aventurien"
-                }
-            }
-        },
-        {
-            "name": "Kulturen",
-            "type": "JournalEntry",
-            "sorting": "a",
-            "sort": 1250000,
-            "color": null,
-            "flags": {
-                "dsa5": {
-                    "parent": "Aventurien"
-                }
-            }
-        },
-        {
             "name": "Meeresteile",
             "type": "JournalEntry",
             "sorting": "a",
@@ -1091,18 +1067,6 @@
             }
         },
         {
-            "name": "Spezies",
-            "type": "JournalEntry",
-            "sorting": "a",
-            "sort": 0,
-            "color": null,
-            "flags": {
-                "dsa5": {
-                    "parent": "Aventurien"
-                }
-            }
-        },
-        {
             "name": "Thorwal & Gjalskerland",
             "type": "JournalEntry",
             "sorting": "a",
@@ -1291,18 +1255,6 @@
             "flags": {
                 "dsa5": {
                     "parent": "Wälder des Nordens"
-                }
-            }
-        },
-        {
-            "name": "Zwölfgötter, Götter & Halbgötter",
-            "type": "JournalEntry",
-            "sorting": "a",
-            "sort": 0,
-            "color": null,
-            "flags": {
-                "dsa5": {
-                    "parent": "Aventurien"
                 }
             }
         }
