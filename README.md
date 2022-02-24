@@ -1,8 +1,8 @@
-# The Dark Eye 5th Edition Interactive Aventuria Map Module
+# DSA5/TDE5 Interactive Aventuria Map Module
 ![](https://user-images.githubusercontent.com/7482909/150671556-6e327d89-3748-41cc-b2e5-de3de9bdde41.jpg)
 
 ### Current Version and Compatibility:
-1.0.0 - FoundryVTT 9.+  
+1.0.1 - FoundryVTT 9.+  
 This module is intended for usage with [The Dark Eye 5th Edition System](https://github.com/Plushtoast/dsa5-foundryVTT/) for [Foundry Virtual Tabletop](https://foundryvtt.com/).
 
 ## Module Description
