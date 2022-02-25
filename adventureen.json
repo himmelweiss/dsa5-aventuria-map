@@ -1,0 +1,213 @@
+{
+    "moduleName": "dsa5-aventuria-map",
+    "journal": "dsa5-aventuria-map.aventuriajournals",
+    "scenes": "dsa5-aventuria-map.aventuriamaps",
+    "chapters": [{
+            "name": "Readme",
+            "content": [
+                { "id": "prep", "name": "Vorbereitung" }
+            ]
+        },
+        {
+            "name": "Aventurien",
+            "content": [
+                { "id": "Aventurien", "name": "Aventurien" },
+                { "id": "Kirchen & Kulte", "name": "Kirchen & Kulte" },
+                { "id": "Kulturen", "name": "Kulturen" },
+                { "id": "Spezies", "name": "Spezies" },
+                { "id": "Zwölfgötter, Götter & Halbgötter", "name": "Zwölfgötter, Götter & Halbgötter" },
+                { "id": "Meeresteile", "name": "Meeresteile" }
+            ]
+        },
+        {
+            "name": "Altoum & Die Waldinseln",
+            "content": [
+                { "id": "Altoum & Die Waldinseln", "name": "Altoum & Die Waldinseln" },
+                { "id": "Pirateninseln", "name": "Pirateninseln" },
+                { "id": "Waldinseln", "name": "Waldinseln" }
+            ]
+        },
+        {
+            "name": "Aranien",
+            "content": [
+                { "id": "Aranien", "name": "Aranien" },
+                { "id": "Emirat Floeszern", "name": "Emirat Floeszern" },
+                { "id": "Radjarat Baburien", "name": "Radjarat Baburien" },
+                { "id": "Radjarat Elburien", "name": "Radjarat Elburien" },
+                { "id": "Radjarat Gorien", "name": "Radjarat Gorien" },
+                { "id": "Radjarat Palmyramis", "name": "Radjarat Palmyramis" },
+                { "id": "Radjarat Yalaiad", "name": "Radjarat Yalaiad" },
+                { "id": "Radjarat Zorghana", "name": "Radjarat Zorghana" },
+                { "id": "Sultanat Jindir", "name": "Sultanat Jindir" }
+            ]
+        },
+        {
+            "name": "Bergkönigreiche der Zwerge",
+            "content": [
+                { "id": "Bergkönigreiche der Zwerge", "name": "Bergkönigreiche der Zwerge" },
+                { "id": "Bergkönigreich Angoramtosch", "name": "Bergkönigreich Angoramtosch" },
+                { "id": "Bergkönigreich Angralosch", "name": "Bergkönigreich Angralosch" },
+                { "id": "Bergkönigreich Isnatosch", "name": "Bergkönigreich Isnatosch" },
+                { "id": "Bergkönigreich Koschim", "name": "Bergkönigreich Koschim" },
+                { "id": "Bergkönigreich Tosch Mur", "name": "Bergkönigreich Tosch Mur" },
+                { "id": "Bergkönigreich Xorlosch", "name": "Bergkönigreich Xorlosch" }
+            ]
+        },
+        {
+            "name": "Das Horasreich",
+            "content": [
+                { "id": "Das Horasreich", "name": "Das Horasreich" },
+                { "id": "Archontat Pailos", "name": "Archontat Pailos" },
+                { "id": "Erzherrschaft Arivor", "name": "Erzherrschaft Arivor" },
+                { "id": "Freigonfalonierat bei Sikram", "name": "Freigonfalonierat bei Sikram" },
+                { "id": "Fürstentum Drôl", "name": "Fürstentum Drôl" },
+                { "id": "Fürstentum Mantrash'Mor", "name": "Fürstentum Mantrash'Mor" },
+                { "id": "Fürstentum Vinsalt", "name": "Fürstentum Vinsalt" },
+                { "id": "Grafschaft Arenkis", "name": "Grafschaft Arenkis" },
+                { "id": "Grafschaft Baliiri", "name": "Grafschaft Baliiri" },
+                { "id": "Grafschaft Bethana", "name": "Grafschaft Bethana" },
+                { "id": "Grafschaft Bomed", "name": "Grafschaft Bomed" },
+                { "id": "Grafschaft Haderin", "name": "Grafschaft Haderin" },
+                { "id": "Grafschaft Illstan", "name": "Grafschaft Illstan" },
+                { "id": "Grafschaft Khômwacht", "name": "Grafschaft Khômwacht" },
+                { "id": "Grafschaft Morbal", "name": "Grafschaft Morbal" },
+                { "id": "Grafschaft Sikram", "name": "Grafschaft Sikram" },
+                { "id": "Grafschaft Thegûn", "name": "Grafschaft Thegûn" },
+                { "id": "Grafschaft Tolfana", "name": "Grafschaft Tolfana" },
+                { "id": "Grafschaft Wobran", "name": "Grafschaft Wobran" },
+                { "id": "Großfürstentum Kuslik", "name": "Großfürstentum Kuslik" },
+                { "id": "Herzogtum Grangorien", "name": "Herzogtum Grangorien" },
+                { "id": "Herzogtum Methumis", "name": "Herzogtum Methumis" },
+                { "id": "Markgrafschaft Chababien", "name": "Markgrafschaft Chababien" },
+                { "id": "Markgrafschaft Goldfelsen", "name": "Markgrafschaft Goldfelsen" },
+                { "id": "Republik Belhanka", "name": "Republik Belhanka" },
+                { "id": "Seekönigreich Cyclopäa", "name": "Seekönigreich Cyclopäa" },
+                { "id": "Syndikokratie Silas", "name": "Syndikokratie Silas" }
+            ]
+        },
+        {
+            "name": "Der Hohe Norden",
+            "content": [
+                { "id": "Der Hohe Norden", "name": "Der Hohe Norden" },
+                { "id": "Herzogtum Paavi", "name": "Herzogtum Paavi" },
+                { "id": "Nivesenlande", "name": "Nivesenlande" }
+            ]
+        },
+        {
+            "name": "Die dampfenden Dschungel",
+            "content": [
+                { "id": "Die dampfenden Dschungel", "name": "Die dampfenden Dschungel" }
+            ]
+        },
+        {
+            "name": "Die Echsensümpfe",
+            "content": [
+                { "id": "Die Echsensümpfe", "name": "Die Echsensümpfe" }
+            ]
+        },
+        {
+            "name": "Die Insel Maraskan",
+            "content": [
+                { "id": "Die Insel Maraskan", "name": "Die Insel Maraskan" },
+                { "id": "Bannland", "name": "Bannland" },
+                { "id": "Fürstkomturei", "name": "Fürstkomturei" },
+                { "id": "Shikanydad", "name": "Shikanydad" }
+            ]
+        },
+        {
+            "name": "Die Lande der Tulamiden",
+            "content": [
+                { "id": "Die Lande der Tulamiden", "name": "Die Lande der Tulamiden" },
+                { "id": "Sultanat Gorien", "name": "Sultanat Gorien" },
+                { "id": "Tulamidenlande", "name": "Tulamidenlande" }
+            ]
+        },
+        {
+            "name": "Die Stadtstaaten Meridianas",
+            "content": [
+                { "id": "Chorhop", "name": "Chorhop" },
+                { "id": "Großemirat Mengbilla", "name": "Großemirat Mengbilla" },
+                { "id": "Imperium von Al'Anfa", "name": "Imperium von Al'Anfa" },
+                { "id": "Königreich Brabak", "name": "Königreich Brabak" }
+            ]
+        },
+        {
+            "name": "Die Steppen der Orks & der ehemalige svelltsche Städtebund",
+            "content": [
+                { "id": "Golf von Riva", "name": "Golf von Riva" },
+                { "id": "Orkland", "name": "Orkland" },
+                { "id": "Svelltland", "name": "Svelltland" }
+            ]
+        },
+        {
+            "name": "Die Streitenden Königreiche",
+            "content": [
+                { "id": "Die Streitenden Königreiche", "name": "Die Streitenden Königreiche" },
+                { "id": "Andergast", "name": "Andergast" },
+                { "id": "Nostria", "name": "Nostria" }
+            ]
+        },
+        {
+            "name": "Die Wüste Khôm & Kalifat",
+            "content": [
+                { "id": "Die Wüste Khôm & Kalifat", "name": "Die Wüste Khôm & Kalifat" }
+            ]
+        },
+        {
+            "name": "Mittelreich",
+            "content": [
+                { "id": "Mittelreich", "name": "Mittelreich" },
+                { "id": "Fürstentum Albernia", "name": "Fürstentum Albernia" },
+                { "id": "Fürstentum Almada", "name": "Fürstentum Almada" },
+                { "id": "Fürstentum Kosch", "name": "Fürstentum Kosch" },
+                { "id": "Herzogtum Nordmarken", "name": "Herzogtum Nordmarken" },
+                { "id": "Herzogtum Tobrien", "name": "Herzogtum Tobrien" },
+                { "id": "Herzogtum Weiden", "name": "Herzogtum Weiden" },
+                { "id": "Königreich Garetien", "name": "Königreich Garetien" },
+                { "id": "Markgrafschaft Greifenfurt", "name": "Markgrafschaft Greifenfurt" },
+                { "id": "Markgrafschaft Perricum", "name": "Markgrafschaft Perricum" },
+                { "id": "Markgrafschaft Rabenmark", "name": "Markgrafschaft Rabenmark" },
+                { "id": "Markgrafschaft Rommilyser Mark", "name": "Markgrafschaft Rommilyser Mark" },
+                { "id": "Markgrafschaft Sonnenmark", "name": "Markgrafschaft Sonnenmark" },
+                { "id": "Markgrafschaft Warunk", "name": "Markgrafschaft Warunk" },
+                { "id": "Markgrafschaft Windhag", "name": "Markgrafschaft Windhag" }
+            ]
+        },
+        {
+            "name": "Schattenlande",
+            "content": [
+                { "id": "Schattenlande", "name": "Schattenlande" }
+            ]
+        },
+        {
+            "name": "Thorwal & Gjalskerland",
+            "content": [
+                { "id": "Thorwal & Gjalskerland", "name": "Thorwal & Gjalskerland" },
+                { "id": "Gjalskerland", "name": "Gjalskerland" },
+                { "id": "Jarltum Gjalskerstrand", "name": "Jarltum Gjalskerstrand" },
+                { "id": "Jarltum Graue Berge", "name": "Jarltum Graue Berge" },
+                { "id": "Jarltum Küstenland", "name": "Jarltum Küstenland" },
+                { "id": "Jarltum Neues Land", "name": "Jarltum Neues Land" },
+                { "id": "Jarltum Njurunstal", "name": "Jarltum Njurunstal" },
+                { "id": "Jarltum Nordhjaldor", "name": "Jarltum Nordhjaldor" },
+                { "id": "Jarltum Olport", "name": "Jarltum Olport" },
+                { "id": "Jarltum Olportsteine", "name": "Jarltum Olportsteine" },
+                { "id": "Jarltum Premer Halbinsel", "name": "Jarltum Premer Halbinsel" },
+                { "id": "Jarltum Steineichenwald", "name": "Jarltum Steineichenwald" }
+            ]
+        },
+        {
+            "name": "Wälder des Nordens",
+            "content": [
+                { "id": "Wälder des Nordens", "name": "Wälder des Nordens" },
+                { "id": "Bornland", "name": "Bornland" },
+                { "id": "Dominium Donnerbach", "name": "Dominium Donnerbach" },
+                { "id": "Elfenlande", "name": "Elfenlande" }
+            ]
+        }
+    ],
+    "modules": [
+        { "id": "fxmaster", "name": "FXMaster", "description": "Use the predefined weather effects on the  Aventuria map (Clouds, birds, crows etc.)" }
+    ],
+    "splash": "modules/dsa5-aventuria-map/icons/journal/cover.webp"
+}

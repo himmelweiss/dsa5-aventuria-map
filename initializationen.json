@@ -1,0 +1,1262 @@
+{
+    "journal": "dsa5-aventuria-map.aventuriajournals",
+    "scenes": "dsa5-aventuria-map.aventuriamaps",
+    "initialScene": "Aventurien",
+    "folders": [{
+            "name": "Aventurien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 100000,
+            "color": null,
+            "flags": {}
+        },
+        {
+            "name": "Altoum & Die Waldinseln",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1800000,
+            "color": "#8dc2c8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Pirateninseln",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#8dc2c8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Altoum & Die Waldinseln"
+                }
+            }
+        },
+        {
+            "name": "Waldinseln",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#8dc2c8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Altoum & Die Waldinseln"
+                }
+            }
+        },
+        {
+            "name": "Aranien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1100000,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Emirat Floeszern",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Radjarat Baburien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Radjarat Elburien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Radjarat Gorien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Radjarat Palmyramis",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Radjarat Yalaiad",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Radjarat Zorghana",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Sultanat Jindir",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#746c47",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aranien"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreiche der Zwerge",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 2000000,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreich Angoramtosch",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Bergkönigreiche der Zwerge"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreich Angralosch",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Bergkönigreiche der Zwerge"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreich Isnatosch",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Bergkönigreiche der Zwerge"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreich Koschim",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Bergkönigreiche der Zwerge"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreich Tosch Mur",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Bergkönigreiche der Zwerge"
+                }
+            }
+        },
+        {
+            "name": "Bergkönigreich Xorlosch",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#341814",
+            "flags": {
+                "dsa5": {
+                    "parent": "Bergkönigreiche der Zwerge"
+                }
+            }
+        },
+        {
+            "name": "Das Horasreich",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1400000,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Archontat Pailos",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Erzherrschaft Arivor",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Freigonfalonierat bei Sikram",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Fürstentum Drôl",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Fürstentum Mantrash'Mor",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Fürstentum Vinsalt",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Arenkis",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Baliiri",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Bethana",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Bomed",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Haderin",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Illstan",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Khômwacht",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Morbal",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Sikram",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Thegûn",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Tolfana",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Grafschaft Wobran",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Großfürstentum Kuslik",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Herzogtum Grangorien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Herzogtum Methumis",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Chababien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Goldfelsen",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Republik Belhanka",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Seekönigreich Cyclopäa",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Syndikokratie Silas",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9c68a6",
+            "flags": {
+                "dsa5": {
+                    "parent": "Das Horasreich"
+                }
+            }
+        },
+        {
+            "name": "Der Hohe Norden",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1000000,
+            "color": "#ccccca",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Herzogtum Paavi",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#ccccca",
+            "flags": {
+                "dsa5": {
+                    "parent": "Der Hohe Norden"
+                }
+            }
+        },
+        {
+            "name": "Nivesenlande",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#ccccca",
+            "flags": {
+                "dsa5": {
+                    "parent": "Der Hohe Norden"
+                }
+            }
+        },
+        {
+            "name": "Die dampfenden Dschungel",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1700000,
+            "color": "#79a744",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Die Echsensümpfe",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1500000,
+            "color": "#394c2e",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Die Insel Maraskan",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1900000,
+            "color": "#6ebe97",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Bannland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#6ebe97",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Insel Maraskan"
+                }
+            }
+        },
+        {
+            "name": "Fürstkomturei",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#6ebe97",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Insel Maraskan"
+                }
+            }
+        },
+        {
+            "name": "Shikanydad",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#6ebe97",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Insel Maraskan"
+                }
+            }
+        },
+        {
+            "name": "Die Lande der Tulamiden",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1200000,
+            "color": "#9b81b1",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Sultanat Gorien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9b81b1",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Lande der Tulamiden"
+                }
+            }
+        },
+        {
+            "name": "Tulamidenlande",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#9b81b1",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Lande der Tulamiden"
+                }
+            }
+        },
+        {
+            "name": "Die Stadtstaaten Meridianas",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1600000,
+            "color": "#414141",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Chorhop",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#414141",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Stadtstaaten Meridianas"
+                }
+            }
+        },
+        {
+            "name": "Großemirat Mengbilla",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#414141",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Stadtstaaten Meridianas"
+                }
+            }
+        },
+        {
+            "name": "Imperium von Al'Anfa",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#414141",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Stadtstaaten Meridianas"
+                }
+            }
+        },
+        {
+            "name": "Königreich Brabak",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#414141",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Stadtstaaten Meridianas"
+                }
+            }
+        },
+        {
+            "name": "Die Steppen der Orks & der ehemalige svelltsche Städtebund",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 800000,
+            "color": "#704c32",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Golf von Riva",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#704c32",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Steppen der Orks & der ehemalige svelltsche Städtebund"
+                }
+            }
+        },
+        {
+            "name": "Orkland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#704c32",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Steppen der Orks & der ehemalige svelltsche Städtebund"
+                }
+            }
+        },
+        {
+            "name": "Svelltland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#704c32",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Steppen der Orks & der ehemalige svelltsche Städtebund"
+                }
+            }
+        },
+        {
+            "name": "Die Streitenden Königreiche",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 300000,
+            "color": "#265f3f",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Andergast",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#265f3f",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Streitenden Königreiche"
+                }
+            }
+        },
+        {
+            "name": "Nostria",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#265f3f",
+            "flags": {
+                "dsa5": {
+                    "parent": "Die Streitenden Königreiche"
+                }
+            }
+        },
+        {
+            "name": "Die Wüste Khôm & Kalifat",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1300000,
+            "color": "#b69783",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Meeresteile",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#1d9ec9",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Mittelreich",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 600000,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Fürstentum Albernia",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Fürstentum Almada",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Fürstentum Kosch",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Herzogtum Nordmarken",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Herzogtum Tobrien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Herzogtum Weiden",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Königreich Garetien",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Greifenfurt",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Perricum",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Rabenmark",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Rommilyser Mark",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Sonnenmark",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Warunk",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Markgrafschaft Windhag",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#7f9ab7",
+            "flags": {
+                "dsa5": {
+                    "parent": "Mittelreich"
+                }
+            }
+        },
+        {
+            "name": "Schattenlande",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 700000,
+            "color": "#2a2927",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Thorwal & Gjalskerland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 200000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Gjalskerland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1200000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Gjalskerstrand",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 900000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Graue Berge",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 700000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Küstenland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 200000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Neues Land",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 100000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Njurunstal",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 600000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Nordhjaldor",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 400000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Olport",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 800000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Olportsteine",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 500000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Premer Halbinsel",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 300000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Jarltum Steineichenwald",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 1000000,
+            "color": "#3e75b8",
+            "flags": {
+                "dsa5": {
+                    "parent": "Thorwal & Gjalskerland"
+                }
+            }
+        },
+        {
+            "name": "Wälder des Nordens",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 900000,
+            "color": "#97bd8a",
+            "flags": {
+                "dsa5": {
+                    "parent": "Aventurien"
+                }
+            }
+        },
+        {
+            "name": "Bornland",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#97bd8a",
+            "flags": {
+                "dsa5": {
+                    "parent": "Wälder des Nordens"
+                }
+            }
+        },
+        {
+            "name": "Dominium Donnerbach",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#97bd8a",
+            "flags": {
+                "dsa5": {
+                    "parent": "Wälder des Nordens"
+                }
+            }
+        },
+        {
+            "name": "Elfenlande",
+            "type": "JournalEntry",
+            "sorting": "a",
+            "sort": 0,
+            "color": "#97bd8a",
+            "flags": {
+                "dsa5": {
+                    "parent": "Wälder des Nordens"
+                }
+            }
+        }
+    ]
+}
