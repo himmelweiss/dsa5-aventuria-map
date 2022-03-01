@@ -2,7 +2,7 @@
     "dsa5-aventuria-map": {
         "name": "TDE5 Interactive Aventuria Map",
         "importHint": "Init the TDE5 Interactive Aventuria Map module. Imports the maps and all journals.",
-        "importContent": "<h1>Imports the TDE5 Interactive Aventuria Map module</h1><p>Import the map and all journals for the TDE5 System.</p><p>The map contains the predefined journals for the entire Aventuria map. You can view the entries with the Journal Browser on the left toolbar (<i class=\"fas fa-bookmark\"></i>).</p>{defaultText}",
+        "importContent": "<h1>Imports the TDE5 Interactive Aventuria Map module</h1><p>Import the map and all journals for the TDE5 System.</p><p>The map contains the predefined journals for the entire Aventuria map. You can view the entries with the Journal Browser on the left toolbar (<i class=\"fas fa-bookmark\"></i>).</p><p>Portions of the texts on locations from the Wiki Aventurica Text (except for citations) are available under the 'Creative Commons' attribution-sharealike license -> <a href='https://de.wiki-aventurica.de/wiki/Wiki_Aventurica:Lizenzbestimmungen'>Wiki Aventurica License Terms</a></p>{defaultText}",
         "welcome": "<h1>Interactive Aventuria Map</h1><p>In the Journal Directory you may find all relevant informations about the <button class=\"openJournalBrowser\">Journal Browser</button>Here you can also initialize the Interactive Aventuria Map Modul.</p>",
         "mapGMMenu": "Aventuria Map GM Menu",
         "mapMenuSetPermissionsTitle": "Aventuria Map change rights",
