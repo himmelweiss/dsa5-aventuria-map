@@ -13,7 +13,7 @@ Portions of the texts on locations from the Wiki Aventurica Text (except for cit
   
 Eine interaktive Aventurienkarte für [Das Schwarze Auge 5 Edition System](https://github.com/Plushtoast/dsa5-foundryVTT/).  
 Beinhaltet aktuell über 400+ Notizen auf der Karte und über 100+ zusätzliche Notizen über ganz Aventurien.  
-Mit freundlicher Unterstützung von [Ulisses Spiele](https://ulisses-spiele.de/).
+Mit freundlicher Unterstützung von [Ulisses Spiele](https://ulisses-spiele.de/).  
 Teile der Texte zu Orten aus dem Wiki Aventurica Text ist (bis auf Zitate) verfügbar unter der Lizenz "Creative Commons" Namensnennung – Weitergabe unter gleichen Bedingungen -> [Wiki Aventurica Lizenzbestimmungen](https://de.wiki-aventurica.de/wiki/Wiki_Aventurica:Lizenzbestimmungen).
 
 ## Module Language
