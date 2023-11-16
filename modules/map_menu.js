@@ -29,10 +29,7 @@ export default class MapMenu extends Application {
             return data;
        
         let aventuriaMapFolders = game.folders.filter(
-            f => f.type === "JournalEntry" 
-            && ( (f.parentFolder != null && f.parentFolder.name === game.i18n.localize("dsa5-aventuria-map.name") )
-            || (f.parentFolder != null && f.parentFolder.parentFolder != null && f.parentFolder.parentFolder.name === game.i18n.localize("dsa5-aventuria-map.name") ) 
-            || f.name === game.i18n.localize("dsa5-aventuria-map.name"))
+            f => f.type === "JournalEntry"
         );
         aventuriaMapFolders.sort();
         aventuriaMapFolders.unshift("");

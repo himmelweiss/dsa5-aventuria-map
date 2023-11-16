@@ -1,6 +1,6 @@
 .fa-dsa5-map {
     position: relative;
-    width: 100%;
+    width: 25px;
     height: 25px;
 }
 
@@ -14,7 +14,7 @@
     left: 0;
     right: 0;
     top: 0;
-    bottom: -5px;
+    bottom: 0;
 }
 
 .set-permissions-click {

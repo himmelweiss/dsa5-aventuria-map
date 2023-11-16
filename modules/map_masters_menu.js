@@ -8,7 +8,7 @@ export default class MapMastersMenu {
         Hooks.on("getSceneControlButtons", btns => {
             if (game.user.isGM) {
 
-                const gmMenu = btns.find(x => x.name == "GM Menu")
+                const gmMenu = btns.find(x => x.title == game.i18n.localize("gmMenu"))
                 gmMenu.tools.push(
                     {
                         name: "MapMenu",
