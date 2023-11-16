@@ -7,13 +7,20 @@
     ],
     "url": "https://github.com/himmelweiss/dsa5-aventuria-map",
     "flags": {},
-    "version": "1.0.4",
-    "minimumCoreVersion": "11.315",
-    "compatibleCoreVersion": "11",
-    "compatibility": {
-        "minimum": "11.315",
-        "verified": "11"
-    },
+    "version": "1.0.5",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11",
+		"maximum": "11"
+	},
+	"media": [{
+		"type": "setup",
+		"url": "modules/dsa5-aventuria-map/icons/thumbs/setup.webp",
+		"loop": false,
+		"thumbnail": "modules/dsa5-aventuria-map/icons/thumbs/setup-thumb.webp",
+		"flags": {}
+		}
+	],
     "scripts": [],
     "esmodules": [
         "modules/init.js"
@@ -62,7 +69,7 @@
     },
     "socket": false,
     "manifest": "https://github.com/himmelweiss/dsa5-aventuria-map/releases/latest/download/module.json",
-    "download": "https://github.com/himmelweiss/dsa5-aventuria-map/releases/download/1.0.4/module.zip",
+    "download": "https://github.com/himmelweiss/dsa5-aventuria-map/releases/download/1.0.5/module.zip",
     "protected": false,
     "coreTranslation": false,
     "library": false
