@@ -85,14 +85,14 @@ export default class MapMenu extends Application {
     
     SetPermissions(currentFolder, desiredPermission, journalUpdates)
     {
-        if (currentFolder.content) {
+        if (currentFolder.contents) {
                 
             console.info(`Setting journal permissions in folder: ${currentFolder.name}`);
 
-            for (const doc of currentFolder.content) {
-                const newPerms = duplicate(doc.data.permission);
+            for (const doc of currentFolder.contents) {
+                const newPerms = duplicate(doc.ownership);
                 newPerms.default = Number(desiredPermission);
-                journalUpdates.push({_id: doc.id, permission: newPerms});
+                journalUpdates.push({_id: doc.id, ownership: newPerms});
             }
 
         }
